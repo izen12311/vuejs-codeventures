@@ -21,7 +21,7 @@
                 <li class="js_nav-item nav-item"><a :href="homeURL" class="nav-item-child nav-item-hover">{{home}}</a></li>
                 <li class="js_nav-item nav-item"><a :href="devURL" class="nav-item-child nav-item-hover">{{developers}}</a></li>
                 <li class="js_nav-item nav-item"><a :href="projectURL" class="nav-item-child nav-item-hover">{{project}}</a></li>
-                <li class="js_nav-item nav-item"><a :href="recuitURL" class="nav-item-child nav-item-hover">{{recuit}}</a></li>
+                <li class="js_nav-item nav-item"><a :href="recruitURL" class="nav-item-child nav-item-hover">{{recruit}}</a></li>
               </ul>
             </div>
           </div>
@@ -33,7 +33,7 @@
       <img src="../static/img/white-logo.png" class="footerLogo" />
       <p class="footerIntro">
         고등학생 개발팀 코드벤처스 | 주소 codeventures.kr
-        <br /> 문의 help@codeventures.kr | © 2017<a style="color:#0a93a6; text-decoration:none;" href="http://codeventures.kr" target="_blank"> codeventures</a>, All rights reserved 2017
+        <br /> 문의 help@codeventures.kr | © 2017<a style="color:#0a93a6; text-decoration:none;" href="https://www.facebook.com/codeventures.kr/" target="_blank"> codeventures</a>, All rights reserved 2017
       </p>
     </div>
   </div>
@@ -46,11 +46,11 @@
       return {
         home: 'Home',
         project: 'Project',
-        recuit: 'Recuit',
+        recruit: 'Recruit',
         developers: 'Developers',
         homeURL: '/',
         projectURL: '/project',
-        recuitURL: '/recuit',
+        recruitURL: '/recruit',
         devURL: '/developers',
       }
     }

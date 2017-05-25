@@ -499,6 +499,13 @@ body {
     height: 200px;
 }
 
-#clearfixm {
-    clear: both;
+/* recuit */
+
+
+.bg_recruit {
+    position: relative;
+    height: 350px;
+    width: 100%;
+    background-image: url(../img/recruit.jpg);
+    top: 30%;
 }

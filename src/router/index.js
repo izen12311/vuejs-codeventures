@@ -5,7 +5,7 @@ import Router from 'vue-router'
 import Home from '@/components/Home'
 import Developers from '@/components/Developers'
 import Project from '@/components/Project'
-import Recuit from '@/components/Recuit'
+import Recruit from '@/components/Recruit'
 
 
 Vue.use(Router)
@@ -29,9 +29,9 @@ export default new Router({
             component: Developers
         },
         {
-            path: '/recuit',
-            name: 'Recuit',
-            component: Developers
+            path: '/recruit',
+            name: 'Recruit',
+            component: Recruit
         }
     ]
 });
