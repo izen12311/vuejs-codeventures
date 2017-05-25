@@ -1,0 +1,68 @@
+﻿<template>
+  <div id="home">
+    <header id="myCarousel" class="carousel slide">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+       <!-- 임시 <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li> -->
+      </ol>
+      <!-- Wrapper for Slides -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <!-- Set the first background image using inline CSS below. -->
+          <img src="../../static/img/wallpaper-hd-background-9.jpg" style="fill">
+          <div class="carousel-caption">
+            <p>청소년 개발팀 코드벤처스에서<br />활동할 인재를 찾고있습니다.</p>
+
+            <p style="font-size:20px;margin-top:-20px;"><br>함께 키워나갈 구성원을 모집중에 있습니다.<br>자세한 내용은 여기를 클릭해주세요 !</p>
+          </div>
+        </div>
+        <div class="item">
+          <!-- Set the second background image using inline CSS below. -->
+          <img src="../../static/img/slide1.jpg" style="fill">
+          <div class="carousel-caption">
+            <p>1</p>
+          </div>
+        </div>
+        <div class="item">
+          <!-- Set the third background image using inline CSS below. -->
+          <!--<div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>-->
+          <img src="../../static/img/slide1.jpg" style="fill">
+          <div class="carousel-caption">
+            <p>1</p>
+          </div>
+        </div>
+      </div>
+      <!-- Controls -->
+     <!-- 임시 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <p class="slidebtn" style="font-size:30px;">&#xE000;</p>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <p class="slidebtn" style="font-size:30px;">&#xE001;</p>
+        <!--<span class="icon-next"></span> prev-->
+      </a>
+    </header>
+    <!-- //
+              preloader </div> -->
+
+    </div>
+
+
+</template>
+
+<style>
+
+</style>
+
+<script>
+  export default {
+    name: 'home',
+    data() {
+      return {
+        slide1Caption: '',
+        slide1CaptionSub: ''
+      }
+    }
+  }
+</script>
