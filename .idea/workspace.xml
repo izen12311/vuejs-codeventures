@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a11e502d-7c12-446d-abc5-fd6c31cbdf26" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home.vue" afterPath="$PROJECT_DIR$/src/components/Home.vue" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +21,7 @@
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="93">
-                  <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+                  <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
                   <folding />
                 </state>
               </provider>
@@ -30,10 +30,11 @@
           <file leaf-file-name="Home.vue" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/Home.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="253">
-                  <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="32" />
+                <state relative-caret-position="434">
+                  <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                   <folding>
                     <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#template#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -63,7 +64,7 @@
             <entry file="file://$PROJECT_DIR$/src/components/Developers.vue">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="4255">
-                  <caret line="185" column="0" lean-forward="true" selection-start-line="132" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
+                  <caret line="185" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -87,7 +88,7 @@
             <entry file="file://$PROJECT_DIR$/static/css/usestyle.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="130">
-                  <caret line="295" column="23" lean-forward="true" selection-start-line="295" selection-start-column="23" selection-end-line="295" selection-end-column="23" />
+                  <caret line="295" column="23" lean-forward="false" selection-start-line="295" selection-start-column="23" selection-end-line="295" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -96,8 +97,8 @@
           <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="7703" column="24" lean-forward="false" selection-start-line="7703" selection-start-column="24" selection-end-line="7703" selection-end-column="24" />
+                <state relative-caret-position="220">
+                  <caret line="7896" column="12" lean-forward="false" selection-start-line="7896" selection-start-column="12" selection-end-line="7896" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
@@ -115,6 +116,7 @@
       <find>logo.p</find>
       <find>carousel</find>
       <find>carousel-inner</find>
+      <find>item &gt;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -130,8 +132,8 @@
         <option value="$PROJECT_DIR$/src/App.vue" />
         <option value="$PROJECT_DIR$/static/css/usestyle.css" />
         <option value="$PROJECT_DIR$/src/components/Recruit.vue" />
-        <option value="$PROJECT_DIR$/src/components/Home.vue" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/components/Home.vue" />
         <option value="$PROJECT_DIR$/static/css/bootstrap.min.css" />
       </list>
     </option>
@@ -413,12 +415,12 @@
       <option name="presentableId" value="Default" />
       <updated>1495709463526</updated>
       <workItem from="1495709464973" duration="10086000" />
-      <workItem from="1495867361587" duration="1008000" />
+      <workItem from="1495867361587" duration="1901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11094000" />
+    <option name="totallyTimeSpent" value="11987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -469,6 +471,7 @@
           <caret line="81" column="35" lean-forward="false" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -515,7 +518,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/Developers.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4255">
-          <caret line="185" column="0" lean-forward="true" selection-start-line="132" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
+          <caret line="185" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -547,7 +550,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
-          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -555,25 +558,26 @@
     <entry file="file://$PROJECT_DIR$/static/css/usestyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="295" column="23" lean-forward="true" selection-start-line="295" selection-start-column="23" selection-end-line="295" selection-end-column="23" />
+          <caret line="295" column="23" lean-forward="false" selection-start-line="295" selection-start-column="23" selection-end-line="295" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="434">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#header#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="7703" column="24" lean-forward="false" selection-start-line="7703" selection-start-column="24" selection-end-line="7703" selection-end-column="24" />
+        <state relative-caret-position="220">
+          <caret line="7896" column="12" lean-forward="false" selection-start-line="7896" selection-start-column="12" selection-end-line="7896" selection-end-column="12" />
           <folding />
         </state>
       </provider>
