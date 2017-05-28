@@ -25,7 +25,7 @@
                                     <tr v-for="list in memberProfile">
                                         <td>
                                             <img :src="'../../static/img/member_img/'+list.image">
-                                            <a href="" class="user-link">{{list.name}}</a> <span
+                                            <a :href="facebook_url" class="user-link">{{list.name}}</a> <span
                                                 class="user-subhead">{{ list.rank }}</span>
                                         </td>
 
@@ -147,7 +147,7 @@
                         rank: 'Web Developer & UI Designer',
                         email: 'kmg@securityplus.or.kr',
                         school: '서울IT 고등학교',
-                        facebook_url: 'fb.com/mingeun.kr',
+                        facebook_url: 'http://fb.com/mingeun.kr',
                         image: 'mingeun.jpg'
                     }, { // 최지헌
                         name: 'Jihyun Choi',
