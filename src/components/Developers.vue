@@ -5,7 +5,7 @@
             <p class="devIntro">{{ tabName }}</p>
         </div>
 
-        <br/><br/>
+        <br/><br/><br><br>
         <div class="container bootstrap snippet">
             <div class="row">
                 <div class="col-lg-12">
@@ -16,7 +16,6 @@
                                     <thead>
                                     <tr>
                                         <th><span>Name</span></th>
-
                                         <th><span>School</span></th>
                                         <th><span>Email</span></th>
                                         <th>&nbsp;</th>
@@ -46,7 +45,8 @@
                 </div>
 
             </div>
-        </div><br><br><br><br>
+        </div>
+        <br><br><br><br>
     </div>
 
 
@@ -149,7 +149,7 @@
                         school: '서울IT 고등학교',
                         facebook_url: 'fb.com/mingeun.kr',
                         image: 'mingeun.jpg'
-                    },{ // 최지헌
+                    }, { // 최지헌
                         name: 'Jihyun Choi',
                         type: '',
                         rank: 'Full Stack Developer',

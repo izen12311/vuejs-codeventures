@@ -26,7 +26,7 @@ export default new Router({
         {
             path: '/project',
             name: 'Project',
-            component: Developers
+            component: Project
         },
         {
             path: '/recruit',

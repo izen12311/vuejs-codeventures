@@ -509,3 +509,29 @@ body {
     background-image: url(../img/recruit.jpg);
     top: 30%;
 }
+
+.recruitIntro {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+/* project */
+
+.bg_project {
+    position: relative;
+    height: 350px;
+    width: 100%;
+    background-image: url(../img/project.jpg);
+    top: 30%;
+}
+
+.projectIntro {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    color: aliceblue;
+    font-size: 30px;
+}
