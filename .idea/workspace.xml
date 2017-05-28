@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a11e502d-7c12-446d-abc5-fd6c31cbdf26" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/SpoqaHanSans-kr.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/header.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/loading-page.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/preloader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide3-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide9 copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/홍보글/slide9.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/member_img/juhyun.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Developers.vue" afterPath="$PROJECT_DIR$/src/components/Developers.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Project.vue" afterPath="$PROJECT_DIR$/src/components/Project.vue" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,11 +60,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Developers.vue" pinned="false" current-in-tab="false">
+          <file leaf-file-name="Developers.vue" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/Developers.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3542">
-                  <caret line="154" column="53" lean-forward="false" selection-start-line="154" selection-start-column="53" selection-end-line="154" selection-end-column="53" />
+                <state relative-caret-position="824">
+                  <caret line="184" column="43" lean-forward="false" selection-start-line="184" selection-start-column="43" selection-end-line="184" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
@@ -100,11 +80,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Project.vue" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Project.vue" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/Project.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="184">
-                  <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+                <state relative-caret-position="276">
+                  <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -165,10 +145,10 @@
         <option value="$PROJECT_DIR$/src/router/index.js" />
         <option value="$PROJECT_DIR$/static/css/usestyle.css" />
         <option value="$PROJECT_DIR$/src/components/Recruit.vue" />
-        <option value="$PROJECT_DIR$/src/components/Developers.vue" />
         <option value="$PROJECT_DIR$/static/css/SpoqaHanSans-kr.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/components/Project.vue" />
+        <option value="$PROJECT_DIR$/src/components/Developers.vue" />
       </list>
     </option>
   </component>
@@ -413,12 +393,12 @@
       <workItem from="1495867361587" duration="2141000" />
       <workItem from="1495941074886" duration="869000" />
       <workItem from="1495963935299" duration="1128000" />
-      <workItem from="1495965084539" duration="1419000" />
+      <workItem from="1495965084539" duration="2261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15643000" />
+    <option name="totallyTimeSpent" value="16485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="0" />
@@ -817,18 +797,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Developers.vue">
+    <entry file="file://$PROJECT_DIR$/src/components/Project.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3542">
-          <caret line="154" column="53" lean-forward="false" selection-start-line="154" selection-start-column="53" selection-end-line="154" selection-end-column="53" />
+        <state relative-caret-position="276">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Project.vue">
+    <entry file="file://$PROJECT_DIR$/src/components/Developers.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        <state relative-caret-position="824">
+          <caret line="184" column="43" lean-forward="false" selection-start-line="184" selection-start-column="43" selection-end-line="184" selection-end-column="43" />
           <folding />
         </state>
       </provider>

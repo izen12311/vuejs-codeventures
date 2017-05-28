@@ -165,7 +165,7 @@
                         email: 'izen1231@gmail.com',
                         school: '숭실 고등학교',
                         facebook_url: '',
-                        image: 'juhyun.jpg'
+                        image: 'juhyun.png'
                     },
                     { // 이민석
                         name: 'Minseok Lee',
@@ -175,6 +175,14 @@
                         school: '서울IT 고등학교',
                         facebook_url: '',
                         image: 'minseok.jpg'
+                    },{ // 안재
+                        name: 'Jaewook Ahn',
+                        type: '',
+                        rank: 'Planner',
+                        email: 'aro11180@gmail.com',
+                        school: '명호 고등학교',
+                        facebook_url: '',
+                        image: 'jaewook.png'
                     },
 
                 ],
