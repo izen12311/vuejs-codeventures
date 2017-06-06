@@ -533,3 +533,21 @@ body {
     color: aliceblue;
     font-size: 30px;
 }
+
+/* design */
+
+.bg_design {
+    position: relative;
+    height: 350px;
+    width: 100%;
+    background-image: url(../img/design.jpg);
+    top: 30%;
+}
+
+.designIntro {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    color: aliceblue;
+    font-size: 30px;
+}
