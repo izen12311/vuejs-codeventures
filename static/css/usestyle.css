@@ -13,13 +13,10 @@ html, html a, body {
 }
 
 body {
+
     position: relative;
     font-family: sans-serif;
     /*background-image: url("../imgs/test.jpg");*/
-}
-
-#clearfix {
-    both: clear;
 }
 
 /* Fixed Top */
@@ -506,6 +503,7 @@ body {
     position: relative;
     height: 350px;
     width: 100%;
+
     background-image: url(../img/recruit.jpg);
     top: 30%;
 }

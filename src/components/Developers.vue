@@ -166,6 +166,14 @@
                         school: '숭실 고등학교',
                         facebook_url: '',
                         image: 'juhyun.png'
+                    },{ // 유광무
+                        name: 'Gwangmu You',
+                        type: '',
+                        rank: 'Android Developer',
+                        email: 'vnycall74@naver.com',
+                        school: '평촌경영 고등학교',
+                        facebook_url: '',
+                        image: 'gwangmu.png'
                     },
                     { // 이민석
                         name: 'Minseok Lee',
@@ -175,7 +183,7 @@
                         school: '서울IT 고등학교',
                         facebook_url: '',
                         image: 'minseok.jpg'
-                    },{ // 안재
+                    },{ // 안재욱
                         name: 'Jaewook Ahn',
                         type: '',
                         rank: 'Planner',
@@ -183,7 +191,7 @@
                         school: '명호 고등학교',
                         facebook_url: '',
                         image: 'jaewook.png'
-                    },
+                    }
 
                 ],
             }
