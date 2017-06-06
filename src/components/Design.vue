@@ -4,9 +4,9 @@
             <p class="designIntro">{{ tabName }}</p>
         </div>
 
-        <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
+        <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/><div class="table-responsive">
+        <table class="table table-bordered">
 
-        <table cellpadding="0" cellspacing="0" border="0" class="datatable table table-striped table-bordered">
             <thead>
             <tr>
                 <th><center>Asset</center></th>
@@ -15,18 +15,20 @@
             </tr>
             </thead>
             <tbody>
-            <tr class="gradeX">
+            <tr>
+                <td align="center"><img src="static/img/black-logo.png" style="height: 250px;"></td>
+                <td align="center">codeventures.kr horizontal logo</td>
 
-                <td><center><img src="static/img/black-logo.png" style="height:230px;width: 500px;"></center></td>
-                <td>codeventures.kr horizontal logo</td>
             </tr>
-            <tr class="gradeC">
-                <td></td>
-                <td>codeventures.kr square logo</td>
+            <tr>
+                <td align="center"></td>
+                <td align="center">codeventures.kr square logo</td>
+
             </tr>
+
             </tbody>
         </table>
-
+    </div>
         <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
     </div>
 
